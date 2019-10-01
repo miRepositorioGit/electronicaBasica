@@ -30,7 +30,9 @@ duración: 4 horas-semana.
 ponderación: 2.38 % de evaluación.
 Objetivo general.
 
-- Informar de la pluralidad de formas de trabajo y evaluación parcial por módulo. Informar de los contenidos de la asignatura ELECTRÓNICA BÁSICA es son antecedente y apoyo para los módulos de las asignaturas: Robótica, Software embebido, Tesina, Instrumentación y diseño de interfaces de autómatas, Diseño de sistemas incrustados, Sensores y actuadores inteligentes. Delimitar los alcances de contenidos y espectativas de cada módulo, establecer reglas de civilidad y convivencia social. 
+- Informar de la pluralidad de formas de trabajo y evaluación parcial por módulo. 
+- Informar de los contenidos de la asignatura ELECTRÓNICA BÁSICA es son antecedente y apoyo para los módulos de las asignaturas: Robótica, Software embebido, Tesina, Instrumentación y diseño de interfaces de autómatas, Diseño de sistemas incrustados, Sensores y actuadores inteligentes. 
+- Delimitar los alcances de contenidos y espectativas de cada módulo, establecer reglas de civilidad y convivencia social. 
 
 ```
 
