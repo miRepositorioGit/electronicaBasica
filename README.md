@@ -1,4 +1,4 @@
-# Electrónica Básica.
+# Electrónica básica.
 ##     Línea de investigación o de trabajo: Diseño de circuitos de control para sistemas automatizados.
 
 
