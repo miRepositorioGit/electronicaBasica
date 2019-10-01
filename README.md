@@ -28,6 +28,7 @@ Es deseable que la o el participante cuente con conocimientos y habilidades sobr
 Introducción a la asignatura. 
 duración: 4 horas-semana. 
 ponderación: 2.38 % de evaluación.
+
 Objetivo general.
 
 - Informar de la pluralidad de formas de trabajo y evaluación parcial por módulo. 
@@ -41,6 +42,7 @@ Objetivo general.
 Instrumentos de medición. 
 duración: 24 horas-semana. 
 ponderación: 14.28 % de evaluación.
+
 Objetivo general.
 
 - Registrar,  medir e interpretar magnitudes de variables eléctricas en circuitos energizados, con tensión alterna y directa, mediante la interconexión de equipo de medición.  
@@ -59,9 +61,11 @@ duración: 35 horas-semana.
 ponderación: 20.83% de evaluación.
 
 Objetivo general.
+
 Editar, capturar diagramas esquemáticos y de circuito impreso con componentes  electrónicos empleando las herramientas de software de diseño electrónico asistido por computadora.
 
 Objetivo particular.
+
 - Manufacturar placas de circuito impreso empleando herramientas de software y maquinas herramientas de control numérico.
 
 - Manufacturar e imprimir circuitos electrónicos impresos sobre placas de sustrato de fibra de vidrio y placa de cobre,  empleando el método de transferencia de tinta.
