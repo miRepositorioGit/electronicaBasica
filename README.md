@@ -19,13 +19,13 @@ Asignatura obligatoria. Módulos que la conforman.
 
 |Introducción|Instrumentos de medción|Edición y manufactura de circuitos eléctronicos impresos|Electrónica analógica|Electrónica digital y de potencia |            
 | --------| -----------------------------------|-------------------------------|-------------| ---------|
-| 4 horas |24 horas                            | 35 horas                      | 49 horas    |56 horas  |
+
 
 ### Requerimientos.
 Es deseable que la o el participante cuente con conocimientos y habilidades sobre los siguientes temas:
 
 ```
-Instrumentos de medición.
+Instrumentos de medición. 24 horas-semana. 14.28 % de evaluación.
 Objetivo general.
 
 - Registrar,  medir e interpretar magnitudes de variables eléctricas en circuitos energizados, con tensión alterna y directa, mediante la interconexión de equipo de medición.  
