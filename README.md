@@ -25,7 +25,20 @@ Asignatura obligatoria. Módulos que la conforman.
 Es deseable que la o el participante cuente con conocimientos y habilidades sobre los siguientes temas:
 
 ```
-Instrumentos de medición. 24 horas-semana. 14.28 % de evaluación.
+Introducción a la asignatura. 
+duración: 4 horas-semana. 
+ponderación: 2.38 % de evaluación.
+Objetivo general.
+
+- Informar de la pluralidad de formas de trabajo y evaluación parcial por módulo. Informar de los contenidos de la asignatura ELECTRÓNICA BÁSICA es son antecedente y apoyo para los módulos de las asignaturas: Robótica, Software embebido, Tesina, Instrumentación y diseño de interfaces de autómatas, Diseño de sistemas incrustados, Sensores y actuadores inteligentes. Delimitar los alcances de contenidos y espectativas de cada módulo, establecer reglas de civilidad y convivencia social. 
+
+```
+
+
+```
+Instrumentos de medición. 
+duración: 24 horas-semana. 
+ponderación: 14.28 % de evaluación.
 Objetivo general.
 
 - Registrar,  medir e interpretar magnitudes de variables eléctricas en circuitos energizados, con tensión alterna y directa, mediante la interconexión de equipo de medición.  
@@ -41,7 +54,7 @@ Objetivo particular.
 ```
 Edición y manufactura de circuitos electrónicos impresos. 
 duración: 35 horas-semana.
-ponderación: 20.83%
+ponderación: 20.83% de evaluación.
 
 Objetivo general.
 Editar, capturar diagramas esquemáticos y de circuito impreso con componentes  electrónicos empleando las herramientas de software de diseño electrónico asistido por computadora.
