@@ -25,7 +25,7 @@ Asignatura obligatoria. Módulos que la conforman.
 Es deseable que la o el participante cuente con conocimientos y habilidades sobre los siguientes temas:
 
 ```
-## Instrumentos de medición.
+Instrumentos de medición.
 Objetivo general.
 
 - Registrar,  medir e interpretar magnitudes de variables eléctricas en circuitos energizados, con tensión alterna y directa, mediante la interconexión de equipo de medición.  
@@ -34,7 +34,6 @@ Objetivo particular.
 
 - Calcula mediante el uso de operaciones y procesos aritméticos, geométricos, algebraicos y estadísticos magnitudes de variables eléctricas.
 - Mantiene, calibra, ajusta e interpreta lecturas en instrumentos de medición y manipula controles de un generador de señales.
-
 - Interconecta y polariza eléctricamente componentes electrónicos pasivos, semiconductores, circuitos integrados empleando una base de prototipos rápidos.
 
 ```
