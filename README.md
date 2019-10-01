@@ -37,3 +37,19 @@ Objetivo particular.
 - Interconecta y polariza eléctricamente componentes electrónicos pasivos, semiconductores, circuitos integrados empleando una base de prototipos rápidos.
 
 ```
+
+```
+Edición y manufactura de circuitos electrónicos impresos. 
+duración: 35 horas-semana.
+ponderación: 20.83%
+
+Objetivo general.
+Editar, capturar diagramas esquemáticos y de circuito impreso con componentes  electrónicos empleando las herramientas de software de diseño electrónico asistido por computadora.
+
+Objetivo particular.
+Manufacturar placas de circuito impreso empleando herramientas de software y maquinas herramientas de control numérico.
+
+Manufacturar e imprimir circuitos electrónicos impresos sobre placas de sustrato de fibra de vidrio y placa de cobre,  empleando el método de transferencia de tinta.
+
+
+```
