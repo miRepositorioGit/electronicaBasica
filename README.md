@@ -81,3 +81,31 @@ Objetivo particular.
 - Manufacturar e imprimir circuitos electrónicos impresos sobre placas de sustrato de fibra de vidrio y placa de cobre,  empleando el método de transferencia de tinta.
 
 ```
+```
+Electrónica analógica.
+duración: 49 horas-semana.
+ponderación: 29.16% de evaluación.
+
+Objetivo general.
+
+Selecciona componentes, módulos electrónicos para el diseño, adaptación y construcción de circuitos electrónicos analógicos.
+
+Objetivo particular.
+
+- Interconecta y polariza eléctricamente componentes electrónicos pasivos y dispositivos semiconductores para el control de arranque, paro inversión de giro de un motor eléctrico empleando una base de prototipos rápidos.
+
+```
+```
+Electrónica digital y de potencia.
+duración: 56 horas-semana.
+ponderación:33.33% de evaluación.
+
+Objetivo general.
+
+Selecciona componentes, módulos electrónicos para el diseño, adaptación y construcción de circuitos electrónicos digitales y de potencia.
+
+Objetivo particular.
+
+- Interconecta y polariza eléctricamente componentes electrónicos pasivos, circuitos lógicos combinacionales, secuenciales y dispositivos semiconductores de potencia para el control de arranque, paro inversión de giro de un motor eléctrico empleando una base de prototipos rápidos.
+
+```
