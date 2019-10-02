@@ -6,9 +6,9 @@
 ## Partición 
 Tiempo de dedicación del estudiante en las actividades de: 
 
-| Docencia| Trabajo independiante significativo|Trabajo profesional supervisado|Horas totales| Créditos |            
-| --------| -----------------------------------|-------------------------------|-------------| ---------|
-| 48      |                          20        |                100            |          168|         6|
+| Docencia  | Trabajo independiente significativo | Trabajo profesional supervisado | Horas totales | Créditos |
+|-----------|-------------------------------------|---------------------------------|---------------|----------|
+|  48 horas |               20 horas              |            100 horas            |   168 horas   |     6    |
 
 
 #  Objetivo de la asignatura.
@@ -17,7 +17,7 @@ Desarrollar competencias básicas en el conocimiento de la electrónica para dis
 
 #  Objetivo específicos.
 
-  *Realiza y esquematiza circuitos electrónicos con componentes pasivos, semiconductores y manejadores de potencia eléctrica para el control eléctrico.
+- Realiza y esquematiza circuitos electrónicos con componentes pasivos, semiconductores y manejadores de potencia eléctrica para el control eléctrico.
 
 - Registra,  mide e interpreta magnitudes de variables eléctricas en circuitos energizados con tensión alterna y directa, mediante la interconexión de equipo de medición.  
 
@@ -28,7 +28,7 @@ Selecciona componentes, módulos electrónicos para el diseño, adaptación y co
 ## Pre-requisitos y correquisitos.
 Asignatura **obligatoria**. Módulos que la conforman.
 
-|Introducción|Instrumentos de medción|Edición y manufactura de circuitos eléctronicos impresos|Electrónica analógica|Electrónica digital y de potencia |            
+|Introducción|Instrumentos de medición|Edición y manufactura de circuitos eléctronicos impresos|Electrónica analógica|Electrónica digital y de potencia |            
 | --------| -----------------------------------|-------------------------------|-------------| ---------|
 
 
