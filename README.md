@@ -1,4 +1,5 @@
 # Electrónica básica.
+
 ##     Línea de investigación o de trabajo: Diseño de circuitos de control para sistemas automatizados.
 
 
@@ -10,9 +11,19 @@ Tiempo de dedicación del estudiante en las actividades de:
 | 48      |                          20        |                100            |          168|         6|
 
 
-#  Objetivo de la asignatura
+#  Objetivo de la asignatura.
 
 Desarrollar competencias básicas en el conocimiento de la electrónica para diseñar sistemas mecatrónicos de forma sinérgica entre las diferentes ingenierías. 
+
+#  Objetivo específicos.
+
+  *Realiza y esquematiza circuitos electrónicos con componentes pasivos, semiconductores y manejadores de potencia eléctrica para el control eléctrico.
+
+- Registra,  mide e interpreta magnitudes de variables eléctricas en circuitos energizados con tensión alterna y directa, mediante la interconexión de equipo de medición.  
+
+- Implementa circuitos electrónicos en tarjetas de circuito impreso en un sistema mecatrónico.
+Selecciona componentes, módulos electrónicos para el diseño, adaptación y construcción de circuitos electrónicos analógicos y digitales.
+
 
 ## Pre-requisitos y correquisitos.
 Asignatura **obligatoria**. Módulos que la conforman.
@@ -25,7 +36,7 @@ Asignatura **obligatoria**. Módulos que la conforman.
 Es deseable que la o el participante cuente con conocimientos y habilidades sobre los siguientes temas:
 
 ```
-**Introducción** a la asignatura. 
+Introducción a la asignatura. 
 duración: 4 horas-semana. 
 ponderación: 2.38 % de evaluación.
 
@@ -39,7 +50,7 @@ Objetivo general.
 
 
 ```
-**Instrumentos de medición**. 
+Instrumentos de medición. 
 duración: 24 horas-semana. 
 ponderación: 14.28 % de evaluación.
 
@@ -56,7 +67,7 @@ Objetivo particular.
 ```
 
 ```
-**Edición y manufactura de circuitos electrónicos impresos**. 
+Edición y manufactura de circuitos electrónicos impresos. 
 duración: 35 horas-semana.
 ponderación: 20.83% de evaluación.
 
