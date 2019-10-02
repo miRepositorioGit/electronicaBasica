@@ -2,7 +2,7 @@
 ##     Línea de investigación o de trabajo: Diseño de circuitos de control para sistemas automatizados.
 
 
-# Partición 
+## Partición 
 Tiempo de dedicación del estudiante en las actividades de: 
 
 | Docencia| Trabajo independiante significativo|Trabajo profesional supervisado|Horas totales| Créditos |            
@@ -10,12 +10,12 @@ Tiempo de dedicación del estudiante en las actividades de:
 | 48      |                          20        |                100            |          168|         6|
 
 
-###  Objetivo de la asignatura
+#  Objetivo de la asignatura
 
 Desarrollar competencias básicas en el conocimiento de la electrónica para diseñar sistemas mecatrónicos de forma sinérgica entre las diferentes ingenierías. 
 
-### Pre-requisitos y correquisitos.
-Asignatura obligatoria. Módulos que la conforman.
+## Pre-requisitos y correquisitos.
+Asignatura **obligatoria**. Módulos que la conforman.
 
 |Introducción|Instrumentos de medción|Edición y manufactura de circuitos eléctronicos impresos|Electrónica analógica|Electrónica digital y de potencia |            
 | --------| -----------------------------------|-------------------------------|-------------| ---------|
@@ -25,7 +25,7 @@ Asignatura obligatoria. Módulos que la conforman.
 Es deseable que la o el participante cuente con conocimientos y habilidades sobre los siguientes temas:
 
 ```
-Introducción a la asignatura. 
+_Introducción_ a la asignatura. 
 duración: 4 horas-semana. 
 ponderación: 2.38 % de evaluación.
 
@@ -39,7 +39,7 @@ Objetivo general.
 
 
 ```
-Instrumentos de medición. 
+_Instrumentos de medición_. 
 duración: 24 horas-semana. 
 ponderación: 14.28 % de evaluación.
 
@@ -56,7 +56,7 @@ Objetivo particular.
 ```
 
 ```
-Edición y manufactura de circuitos electrónicos impresos. 
+_Edición y manufactura de circuitos electrónicos impresos_. 
 duración: 35 horas-semana.
 ponderación: 20.83% de evaluación.
 
