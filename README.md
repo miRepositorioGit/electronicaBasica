@@ -25,7 +25,7 @@ Asignatura **obligatoria**. Módulos que la conforman.
 Es deseable que la o el participante cuente con conocimientos y habilidades sobre los siguientes temas:
 
 ```
-_Introducción_ a la asignatura. 
+**Introducción** a la asignatura. 
 duración: 4 horas-semana. 
 ponderación: 2.38 % de evaluación.
 
@@ -39,7 +39,7 @@ Objetivo general.
 
 
 ```
-_Instrumentos de medición_. 
+**Instrumentos de medición**. 
 duración: 24 horas-semana. 
 ponderación: 14.28 % de evaluación.
 
@@ -56,7 +56,7 @@ Objetivo particular.
 ```
 
 ```
-_Edición y manufactura de circuitos electrónicos impresos_. 
+**Edición y manufactura de circuitos electrónicos impresos**. 
 duración: 35 horas-semana.
 ponderación: 20.83% de evaluación.
 
