@@ -6,10 +6,9 @@
 ## Partición 
 Tiempo de dedicación del estudiante en las actividades de: 
 
-| Docencia  | Trabajo independiente significativo | Trabajo profesional supervisado | Horas totales | Créditos |
-|-----------|-------------------------------------|---------------------------------|---------------|----------|
-|  48 horas |               20 horas              |            100 horas            |   168 horas   |     6    |
-
+| Docencia 	| Trabajo independiente significativo 	| Trabajo profesional supervisado 	| Horas totales 	| Créditos 	|
+|-----------	|-------------------------------------	|---------------------------------	|---------------	|----------	|
+|  48 horas 	| 20 horas 	| 100 horas 	| 168 horas 	| 6 	|
 
 #  Objetivo de la asignatura.
 
