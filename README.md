@@ -111,7 +111,7 @@ Objetivo particular.
 
 ```
 
-# Aportación al perfil del graduado.
+## Aportación al perfil del graduado.
 
 Los contenidos de Electrónica básica aporta el conocimiento teórico y práctico necesario para realizar tareas de: medición de parámetros eléctricos, diseño, implementación, instalación y diagnóstico de un sistema electromecánico dotado de fuentes de alimentación, sensores electrónicos, componentes semiconductores, actuadores lineales y rotacionales que integran a un sistema mecatrónico.
 
