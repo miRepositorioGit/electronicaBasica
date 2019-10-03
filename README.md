@@ -119,9 +119,9 @@ Enriquece el vocabulario de términos y símbolos, habilita el manejo de herrami
 
 La asignatura contribuye a la conformación de una actitud crítica, responsable y propositiva en el egresado, ante las implicaciones económicas, sociales y ecológicas, del proceso de generación y aplicación del conocimiento científico y de las innovaciones tecnológicas, con el que seguramente estará estrechamente relacionado en el desempeño de su vida profesional. Específicamente el curso coadyuva a:
 
-•	Introducir al participante a experimentar y vincular la teoría de operación y la práctica con componentes electrónicos. 
-•	Adquirir la habilidad para medir y manipular parámetros de operación de dispositivos semiconductores.
-•	Aplicar la teoría de operación del componente en el diseño de circuitos electrónicos.
-•	Seleccionar componentes necesarios para el diseño y construcción de circuitos electrónicos analógicos y digitales.
-•	Promover el uso de software especializado en el análisis de circuitos electrónicos.
-•	Promover la integración de los circuitos electrónicos en el desarrollo de proyectos mecatrónicos.
+  •	Introducir al participante a experimentar y vincular la teoría de operación y la práctica con componentes electrónicos. 
+  •	Adquirir la habilidad para medir y manipular parámetros de operación de dispositivos semiconductores.
+  •	Aplicar la teoría de operación del componente en el diseño de circuitos electrónicos.
+  •	Seleccionar componentes necesarios para el diseño y construcción de circuitos electrónicos analógicos y digitales.
+  •	Promover el uso de software especializado en el análisis de circuitos electrónicos.
+  •	Promover la integración de los circuitos electrónicos en el desarrollo de proyectos mecatrónicos.
