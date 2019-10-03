@@ -109,3 +109,17 @@ Objetivo particular.
 - Interconecta y polariza eléctricamente componentes electrónicos pasivos, circuitos lógicos combinacionales, secuenciales y dispositivos semiconductores de potencia para el control de arranque, paro inversión de giro de un motor eléctrico empleando una base de prototipos rápidos.
 
 ```
+#Aportación al perfil del graduado.
+
+Los contenidos de Electrónica básica aporta el conocimiento teórico y práctico necesario para realizar tareas de: medición de parámetros eléctricos, diseño, implementación, instalación y diagnóstico de un sistema electromecánico dotado de fuentes de alimentación, sensores electrónicos, componentes semiconductores, actuadores lineales y rotacionales que integran a un sistema mecatrónico.
+
+Enriquece el vocabulario de términos y símbolos, habilita el manejo de herramientas especializadas y tecnológicas que promuevan la investigación, interacción y comunicación básica en áreas afines.
+
+La asignatura contribuye a la conformación de una actitud crítica, responsable y propositiva en el egresado, ante las implicaciones económicas, sociales y ecológicas, del proceso de generación y aplicación del conocimiento científico y de las innovaciones tecnológicas, con el que seguramente estará estrechamente relacionado en el desempeño de su vida profesional. Específicamente el curso coadyuva a:
+
+•	Introducir al participante a experimentar y vincular la teoría de operación y la práctica con componentes electrónicos. 
+•	Adquirir la habilidad para medir y manipular parámetros de operación de dispositivos semiconductores.
+•	Aplicar la teoría de operación del componente en el diseño de circuitos electrónicos.
+•	Seleccionar componentes necesarios para el diseño y construcción de circuitos electrónicos analógicos y digitales.
+•	Promover el uso de software especializado en el análisis de circuitos electrónicos.
+•	Promover la integración de los circuitos electrónicos en el desarrollo de proyectos mecatrónicos.
