@@ -47,7 +47,6 @@ Objetivo general.
 
 ```
 
-
 ```
 Instrumentos de medición. 
 duración: 24 horas-semana. 
@@ -81,6 +80,7 @@ Objetivo particular.
 - Manufacturar e imprimir circuitos electrónicos impresos sobre placas de sustrato de fibra de vidrio y placa de cobre,  empleando el método de transferencia de tinta.
 
 ```
+
 ```
 Electrónica analógica.
 duración: 49 horas-semana.
@@ -95,6 +95,7 @@ Objetivo particular.
 - Interconecta y polariza eléctricamente componentes electrónicos pasivos y dispositivos semiconductores para el control de arranque, paro inversión de giro de un motor eléctrico empleando una base de prototipos rápidos.
 
 ```
+
 ```
 Electrónica digital y de potencia.
 duración: 56 horas-semana.
@@ -109,7 +110,8 @@ Objetivo particular.
 - Interconecta y polariza eléctricamente componentes electrónicos pasivos, circuitos lógicos combinacionales, secuenciales y dispositivos semiconductores de potencia para el control de arranque, paro inversión de giro de un motor eléctrico empleando una base de prototipos rápidos.
 
 ```
-#Aportación al perfil del graduado.
+
+# Aportación al perfil del graduado.
 
 Los contenidos de Electrónica básica aporta el conocimiento teórico y práctico necesario para realizar tareas de: medición de parámetros eléctricos, diseño, implementación, instalación y diagnóstico de un sistema electromecánico dotado de fuentes de alimentación, sensores electrónicos, componentes semiconductores, actuadores lineales y rotacionales que integran a un sistema mecatrónico.
 
