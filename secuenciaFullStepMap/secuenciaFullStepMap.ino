@@ -15,16 +15,30 @@
 //}
 //void loop() {
 //}
-
+//
 uint8_t fullStep[] ={0x03,
             0x06,
             0x0c,
             0x09};
 
+//uint8_t fullStep[] ={0x01,
+//            0x02,
+//            0x04,
+//            0x08};
+
+
+//uint8_t fullStep[] ={0x08,
+//            0x0c,
+//            0x04,
+//            0x06,
+//            0x02,
+//            0x03,
+//            0x01,
+//            0x09};
             
-uint8_t auxTime    = 50;
+uint8_t auxTime    = 250;
 uint8_t steps      = 100;
-uint8_t cntPasosCw = 200;
+uint8_t cntPasosCw = 100;
 
 int main(void)
  {
@@ -46,6 +60,14 @@ int main(void)
                  
         for (steps=0;steps<200;steps++)
         {
+//          PORTC = fullStep[7];
+//            _delay_ms(auxTime);       // Delay of n Second
+//          PORTC = fullStep[6];
+//            _delay_ms(auxTime);       // Delay of n Second
+//          PORTC = fullStep[5];
+//            _delay_ms(auxTime);       // Delay of n Second
+//          PORTC = fullStep[4];
+//            _delay_ms(auxTime);       // Delay of n Second  
           PORTC = fullStep[3];
             _delay_ms(auxTime);       // Delay of n Second
           PORTC = fullStep[2];
