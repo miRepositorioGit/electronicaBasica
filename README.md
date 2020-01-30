@@ -134,4 +134,4 @@ DIRECCIÓN GENERAL DE EDUCACIÓN TECNOLOGICA INDUSTRIAL.
 CENTRO NACIONAL DE EDUCACIÓN DOCENTE 
 Currícula de la especialización en Ingeniería Mecatrónica.
 Revisión 2019. Colegiado de las áreas de Control y Mecánica.
-
+https://github.com/miRepositorioGit/electronicaBasica/blob/master/Miscelaneos/ElectronicaBasicaRevision2019.pdf
