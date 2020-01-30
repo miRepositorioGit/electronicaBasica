@@ -1,18 +1,19 @@
 # Electrónica básica.
 
-##     Línea de investigación o de trabajo: Diseño de circuitos de control para sistemas automatizados.
+##     Línea de investigación o de trabajo: Diseño de circuitos de control para sistemas automatizados [1].
 
 
 ## Partición 
 Tiempo de dedicación del estudiante en las actividades de: 
 
 | Docencia 	| Trabajo independiente significativo 	| Trabajo profesional supervisado 	| Horas totales 	| Créditos 	|
-|-----------	|-------------------------------------	|---------------------------------	|---------------	|----------	|
-|  48 horas 	| 20 horas 	| 100 horas 	| 168 horas 	| 6 	|
+|-----------|-------------------------------------	|---------------------------------	|---------------	|----------	|
+|  48 horas | 20 horas 								| 100 horas 						| 168 horas 		| 6 		|
 
 #  Objetivo de la asignatura.
 
-Desarrollar competencias básicas en el conocimiento de la electrónica para diseñar sistemas mecatrónicos de forma sinérgica entre las diferentes ingenierías. 
+Desarrollar competencias básicas en el conocimiento de la electrónica para diseñar 
+sistemas mecatrónicos de forma sinérgica entre las diferentes ingenierías [1]. 
 
 #  Objetivo específicos.
 
@@ -111,7 +112,7 @@ Objetivo particular.
 
 ```
 
-## Aportación al perfil del graduado.
+## Aportación al perfil del graduado [1].
 
 Los contenidos de Electrónica básica aporta el conocimiento teórico y práctico necesario para realizar tareas de: medición de parámetros eléctricos, diseño, implementación, instalación y diagnóstico de un sistema electromecánico dotado de fuentes de alimentación, sensores electrónicos, componentes semiconductores, actuadores lineales y rotacionales que integran a un sistema mecatrónico.
 
@@ -125,3 +126,12 @@ La asignatura contribuye a la conformación de una actitud crítica, responsable
   *	Seleccionar componentes necesarios para el diseño y construcción de circuitos electrónicos analógicos y digitales.
   *	Promover el uso de software especializado en el análisis de circuitos electrónicos.
   *	Promover la integración de los circuitos electrónicos en el desarrollo de proyectos mecatrónicos.
+  
+# Referencias.
+
+[1] SUBSECRETARIA DE EDUCACIÓN MEDIA SUPERIOR. 
+DIRECCIÓN GENERAL DE EDUCACIÓN TECNOLOGICA INDUSTRIAL.
+CENTRO NACIONAL DE EDUCACIÓN DOCENTE 
+Currícula de la especialización en Ingeniería Mecatrónica.
+Revisión 2019. Colegiado de las áreas de Control y Mecánica.
+
