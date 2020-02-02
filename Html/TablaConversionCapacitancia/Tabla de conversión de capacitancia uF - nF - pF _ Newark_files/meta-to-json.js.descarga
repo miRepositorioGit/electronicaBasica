@@ -1,0 +1,2 @@
+//>>built
+define("sudo/modules/target/meta-to-json",["dojo/_base/array"],function(e){return function(t){var i={};return t instanceof Array&&e.forEach(t,function(e){""!==e.CampaignId&&(i[e.CampaignId]={CampaignName:e.CampaignName,RecipeId:e.RecipeId})}),i}});//# sourceMappingURL=meta-to-json.js.map

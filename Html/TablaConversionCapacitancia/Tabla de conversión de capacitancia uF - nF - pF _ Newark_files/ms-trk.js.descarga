@@ -1,0 +1,2 @@
+//>>built
+require(["dojo/request/script"],function(e){var t={farnell:"4057417",element14:"5319446",newark:"4005488",cpc:"5665443"};!function(i,a,o,n,r){var s;i[r]=i[r]||[],s=function(){var e={ti:t[mk.tagging.store]};e.q=i[r],i[r]=new UET(e),i[r].push("pageLoad")},e.get(n).then(function(){try{s(),"orderConf"==mk.pageType&&"cpc"==mk.tagging.store&&window.uetq.push({gv:mk.tagging.pageData.orderValue.globalCurrency,gc:"GBP"})}catch(e){}})}(window,document,0,"//bat.bing.com/bat.js","uetq")});//# sourceMappingURL=ms-trk.js.map

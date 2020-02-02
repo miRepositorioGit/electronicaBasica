@@ -1,0 +1,2 @@
+//>>built
+define("sudo/modules/target/props/all",[],function(){return function(e){"pdp"==e&&require(["sudo/modules/target/props/pdp"],function(e){e()})}});//# sourceMappingURL=all.js.map

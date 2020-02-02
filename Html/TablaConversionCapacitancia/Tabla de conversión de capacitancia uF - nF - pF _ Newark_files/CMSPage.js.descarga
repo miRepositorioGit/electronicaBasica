@@ -1,0 +1,3 @@
+//>>built
+require({cache:{"pf/global/pf.priceErrorMsg":function(){define(["dojo/dom","dojo/dom-class"],function(a,c){pf.priceErrorMsg=new function(){this.init=function(){var b=a.byId("hasContractPriceError");b&&"true"==b.value&&(b=a.byId("contractPriceErrorMsg"))&&c.remove(b,"displayNone")}}})}}});define("pf/CMSPage",["dojo/ready","./common","./global/pf.minibasket","./global/pf.param","./global/pf.priceErrorMsg"],function(a){a(function(){pf.param.templateCall&&(pf.param.init(!0),pf.priceErrorMsg.init());pf.minibasket.init()})});
+//# sourceMappingURL=CMSPage.js.map

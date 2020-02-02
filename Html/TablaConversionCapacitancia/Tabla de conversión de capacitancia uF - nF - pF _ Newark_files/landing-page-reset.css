@@ -1,0 +1,34 @@
+/*reset*/
+main#page-container.container .mkt .container, main#page-container.container .mkt .container-fluid {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
+
+#head {
+    margin-bottom: 0;
+}
+
+#bodyContainer.layoutOne #article, #bodyContainer.layoutFive #article {
+    margin: 0;
+}
+
+#bodyContainer #article {
+    margin-top: 0;
+}
+
+div#page.has-sticky {
+    margin-top:0 !important;
+}
+div#page.has-sticky .sticky#head {
+    position: static !important;
+    top: -138px !important;
+}
+
+main#page-container {
+    margin-right: 0;
+    margin-left: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
